@@ -5,7 +5,7 @@
  */
 
 //Controle de Fluxo - Desafio
-package com.ronaldo.desafiofluxo;
+package desafiofluxo;
 
 import java.util.Scanner;
 
